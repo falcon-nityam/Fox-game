@@ -1,0 +1,20 @@
+{
+  "name": "Fox-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falcon-nityam/Fox-game.git"
+  },
+  "keywords": [],
+  "author": "Nityam <nityambhangad0213@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/falcon-nityam/Fox-game/issues"
+  },
+  "homepage": "https://github.com/falcon-nityam/Fox-game#readme"
+}
