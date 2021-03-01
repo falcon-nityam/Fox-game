@@ -1,10 +1,10 @@
 {
-  "name": "Fox-game",
+  "name": "fox-game",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/falcon-nityam/Fox-game/issues"
   },
-  "homepage": "https://github.com/falcon-nityam/Fox-game#readme"
+  "homepage": "https://github.com/falcon-nityam/Fox-game#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.3",
+    "parcel-bundler": "^1.12.4"
+  }
 }
